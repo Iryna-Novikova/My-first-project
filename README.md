@@ -1,1 +1,3 @@
-# My-first-project
+# GOIT_HW_1_IN
+
+My first profect.
